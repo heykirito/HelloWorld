@@ -1,1 +1,1 @@
-## This is a simple web app to do use Github Actions for CI/CD
+## This is a simple web app to demonstrate Github Actions for CI/CD
