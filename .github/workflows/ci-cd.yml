@@ -21,7 +21,7 @@ jobs:
         run: npm install
 
       - name: Build Docker image
-        run: docker build -t node-express-app
+        run: docker build -t node-express-app .
 
       - name: Push to DockerHub
         run: |
