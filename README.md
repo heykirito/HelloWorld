@@ -1,4 +1,4 @@
-## This is a simple web app to demonstrate Github Actions for CI/CD
+## This is a simple web app to demonstrate Github Actions with CI/CD pipeline
 
 ## STEPS
 
