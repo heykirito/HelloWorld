@@ -26,5 +26,5 @@ jobs:
       - name: Push to DockerHub
         run: |
           echo "${{ secrets.DOCKERHUB_PASS }}" | docker login -u "${{ secrets.DOCKERHUB_USER }}" --password-stdin
-          docker tag node-express-app your-dockerhub-username/node-express-app:latest
-          docker push your-dockerhub-username/node-express-app:latest
+          docker tag node-express-app heykirito/node-express-app:latest
+          docker push heykirito/node-express-app:latest
