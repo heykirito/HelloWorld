@@ -6,6 +6,7 @@
 2. The code is pushed to Github for version control and workflows
 3. Github Actions
 - Installed Dependencies
+- Add docker creds in GIthub Secrets
 - Build the docker image and pushed on DockerHub
 
 4. DockerHub - Store and built docker images
