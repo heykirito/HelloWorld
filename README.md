@@ -10,3 +10,6 @@
 - Build the docker image and pushed on DockerHub
 
 4. DockerHub - Store and built docker images
+
+Here's ss of running app
+!["Example of the running app"](./images/running-example.png)
