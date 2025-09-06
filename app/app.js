@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const PORT = process.env.PORT || 3000;
+const port = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
   res.send(`
@@ -39,6 +39,6 @@ app.get("/", (req, res) => {
   `);
 });
 
-app.listen(PORT, () => {
-  console.log(`Server running at port ${PORT}`);
+app.listen(port, () => {
+  console.log(`Server running at port ${port}`);
 });
