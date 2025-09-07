@@ -13,3 +13,6 @@
 
 Here's ss of running app
 !["Example of the running app"](./images/running-example.png)
+
+
+Here's the link for the landing page: https://helloworld-app-oddx.onrender.com
