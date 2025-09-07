@@ -38,7 +38,7 @@ app.get("/", (req, res) => {
   </html>
   `);
 });
-
+console.log("Render PORT env:", process.env.PORT);
 app.listen(port, () => {
   console.log(`Server running at port ${port}`);
 });
